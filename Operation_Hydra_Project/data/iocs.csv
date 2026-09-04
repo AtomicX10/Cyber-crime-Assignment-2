@@ -1,0 +1,7 @@
+ioc_id,value,type,context,safety_note
+IOC-001,198.51.100.24,IP address,Email relay in simulation,Documentation range
+IOC-002,203.0.113.77,IP address,Email relay in simulation,Documentation range
+IOC-003,192.0.2.45,IP address,Email relay in simulation,Documentation range
+IOC-004,hydra-training.example,Domain,Simulated phishing landing domain,Fictional example domain
+IOC-005,hydra_attachment_simulator.html,File,Harmless HTML training artifact,Non-executable
+IOC-006,SHA256: generated locally,Hash,Evidence workflow placeholder,Not a malware hash

@@ -1,0 +1,6 @@
+transaction_id,timestamp,from_id,amount,method,to_id,status,note
+TXN-1001,2026-09-04 09:31,USER-104,"₹2,450",CARD,merchant-sim-01,FLAGGED,Credential-phishing scenario
+TXN-1002,2026-09-04 09:36,USER-104,"₹18,900",UPI,MULE-201,FLAGGED,Rapid transfer after login lure
+TXN-1003,2026-09-04 09:39,MULE-201,"₹12,000",UPI,MULE-202,FLAGGED,Layering simulation
+TXN-1004,2026-09-04 09:42,MULE-202,"₹11,500",UPI,WALLET-SIM-01,FLAGGED,Simulated conversion
+TXN-1005,2026-09-04 09:48,USER-118,₹799,CARD,merchant-sim-02,REVIEW,Repeated low-value attempt

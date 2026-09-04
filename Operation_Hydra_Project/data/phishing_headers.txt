@@ -1,0 +1,39 @@
+From: "KRMU Student Portal" <alerts@krmu-student.example>
+To: student@example.edu
+Date: Fri, 04 Sep 2026 09:14:22 +0530
+Subject: Urgent: Scholarship Verification Required
+Message-ID: <hydra-001@krmu-student.example>
+Received: from mail.hydra-lab.example (198.51.100.24) by mx.example.edu
+Authentication-Results: mx.example.edu; spf=fail smtp.mailfrom=krmu-student.example; dkim=none; dmarc=fail
+X-Originating-IP: 198.51.100.24
+Body summary: Urgent scholarship verification through a simulated training link.
+
+From: "Cloud Billing Desk" <billing@cloud-secure.example>
+To: finance@example.edu
+Date: Fri, 04 Sep 2026 10:02:11 +0530
+Subject: Payment Failure – Action Needed
+Message-ID: <hydra-002@cloud-secure.example>
+Received: from relay.hydra-lab.example (203.0.113.77) by mx.example.edu
+Authentication-Results: mx.example.edu; spf=softfail smtp.mailfrom=cloud-secure.example; dkim=none; dmarc=fail
+X-Originating-IP: 203.0.113.77
+Body summary: Fake invoice notice with a harmless simulated HTML attachment.
+
+From: "Campus IT Support" <it-support@campus-login.example>
+To: student@example.edu
+Date: Fri, 04 Sep 2026 11:28:45 +0530
+Subject: Account Lock Warning
+Message-ID: <hydra-003@campus-login.example>
+Received: from smtp.hydra-lab.example (192.0.2.45) by mx.example.edu
+Authentication-Results: mx.example.edu; spf=fail smtp.mailfrom=campus-login.example; dkim=fail; dmarc=fail
+X-Originating-IP: 192.0.2.45
+Body summary: Countdown-style password-reset lure using a fictional look-alike domain.
+
+From: "Rewards Team" <rewards@wallet-alert.example>
+To: user@example.edu
+Date: Fri, 04 Sep 2026 13:05:17 +0530
+Subject: Wallet Cashback Expiring Today
+Message-ID: <hydra-004@wallet-alert.example>
+Received: from edge.hydra-lab.example (198.51.100.89) by mx.example.edu
+Authentication-Results: mx.example.edu; spf=neutral smtp.mailfrom=wallet-alert.example; dkim=none; dmarc=fail
+X-Originating-IP: 198.51.100.89
+Body summary: Cashback lure requesting confirmation of a dummy transaction reference.
